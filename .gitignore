@@ -1,0 +1,13 @@
+# OS/エディタのゴミ
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# 秘密情報（保険）
+*.env
+.env
+*token*.json
+*secret*
+*.key
+*credential*
